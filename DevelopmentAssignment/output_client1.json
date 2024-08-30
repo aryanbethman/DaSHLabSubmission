@@ -1,0 +1,47 @@
+[
+    {
+        "Prompt": "What is an operating system",
+        "Message": [
+            "\n\nOS can come in two flavors: The standard Windows operating system. One can be embedded on a laptop using Windows XP or Windows 8.1 and it's known as Linux. It's a new piece of software"
+        ],
+        "Source": "gpt-2",
+        "ClientID": "Client 1"
+    }
+][
+    {
+        "Prompt": "What is the OSI model",
+        "Message": [
+            "\n\nThe OSI model consists of 3 types of hardware such as the CPU and GPU. For each type an associated function is added. For example, if you have X in the function call object, it will"
+        ],
+        "Source": "gpt-2",
+        "ClientID": "Client 1"
+    }
+][
+    {
+        "Prompt": "Who was Alan Turing",
+        "Message": [
+            " Yes he was!\n\nWhat was the last time you said it was a question that mattered",
+            "\n\nYes I do, but it's a very specific question. My daughter, my husband and my grandchildren have this question"
+        ],
+        "Source": "gpt-2",
+        "ClientID": "Client 1"
+    }
+][
+    {
+        "Prompt": "How do computer networks work",
+        "Message": [
+            "\n\nNetwork access is an essential piece of software that can be used when a target organization wants to connect to computers remotely. The easiest way to do this is to install Linux Mint on a computer but then you need to"
+        ],
+        "Source": "gpt-2",
+        "ClientID": "Client 1"
+    }
+][
+    {
+        "Prompt": "What is the Linux Kernel",
+        "Message": [
+            "\n\nThe Linux kernel was created originally for the purpose of improving machine learning. By default, the ARM Cortex A9-E quad core ARM processor has 32-bit LUT instructions, 32-bit FPU and"
+        ],
+        "Source": "gpt-2",
+        "ClientID": "Client 1"
+    }
+]

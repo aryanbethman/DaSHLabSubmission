@@ -1,14 +1,92 @@
 [
     {
-    "Prompt": "What is an operating system?", 
-    "Message": "An operating system is computer program that organizes a number of other programs at the same time", 
-    "TimeSent": 1724610170, 
-    "TimeRecvd": 1724610183, 
-    "Source": "ChatGPT"}, 
+        "Prompt": "What is an operating system?",
+        "Message": [
+            "An operating system is a system that runs on a computer or other device, and is capable of running an operating system. There are different operating systems, each of which has its own advantages and disadvantages.",
+            ""
+        ],
+        "Source": "gpt-2"
+    },
     {
-    "Prompt": "What is a file system?", 
-    "Message": "A file system  governs file organization and access.", 
-    "TimeSent": 1724610186, 
-    "TimeRecvd": 1724610193, 
-    "Source": "ChatGPT"}
+        "Prompt": "What is the OSI model?",
+        "Message": [
+            "This is a very important question. The OSI model is based on the concept of how the OSI system works. It describes the system as being \"un-interrupted\" (an \"un-"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "Who was Alan Turing?",
+        "Message": [
+            "Alan Turing was a British scientist and Nobel Prize winner.",
+            "He was the first person to create a computer. He was also the first person to create a human being. He was also the first person to create"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "How do computer networks work?",
+        "Message": [
+            "There are many different ways to solve this problem. It's one of the most common problems you will encounter.",
+            "The simplest way to solve this problem is to use a network. It's a set of"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "What is the Linux Kernel?",
+        "Message": [
+            "The Linux kernel is an open-source operating system. It is an open-source operating system for the Linux kernel, a lightweight, low-level application that allows you to write programs on the fly. It"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "What is a File system?",
+        "Message": [
+            "A file system is a data-driven structure that makes it possible to track and manipulate data, both in the data itself and in its associated files. As you can see, in a file system, you can"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "What is Docker?",
+        "Message": [
+            "Docker is a platform for building and running applications on Linux. It is the most widely used and widely used operating system on the planet. Docker is a containerized, distributed and distributed application framework that enables developers to deploy"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "What is a GPU and how is it different from a CPU?",
+        "Message": [
+            "GPUs are the most common CPU type, and they are the most widely used in most applications.",
+            "The most important difference between a GPU and a CPU is that GPU"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "What are the layers of the OSI model?",
+        "Message": [
+            "The layers are the basic data that goes into the data stream. It's just the data that's stored in the data stream. If you're not familiar with the layer type, it's"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "What is BeeGFS?",
+        "Message": [
+            "The BeeGFS is a suite of tools that provides a comprehensive and comprehensive database of all the data in the world's most popular digital media sites. It is available for download from the following sites:",
+            ""
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "What are the various components that comprise a computer?",
+        "Message": [
+            "The Computer",
+            "The computer is a computer that is connected to a network. A network is a computer that runs on a computer hardware or software system that is connected to a network. In"
+        ],
+        "Source": "gpt-2"
+    },
+    {
+        "Prompt": "What is Federated Learning?",
+        "Message": [
+            "The Federated Learning program is a nonprofit organization that provides high quality, quality education for all students at the University of Wisconsin-Madison. The program provides free, low-cost, low-stakes, and competitive"
+        ],
+        "Source": "gpt-2"
+    }
 ]
